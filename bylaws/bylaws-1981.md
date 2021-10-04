@@ -166,8 +166,11 @@ Upon resignation or removal of an Officer, the position shall be filled in the m
 - **Section 12.02.** The Treasurer shall:
 
   - (a) Receive and deposit in such bank or banks as the Board may from time to time direct, all of the funds of the Association;
+
   - (b) Be responsible for and shall supervise the maintenance of books and records to account for such funds and other Association assets;
+
   - (c) Disburse and withdraw said funds as the Board may from time to time direct, and in accordance with prescribed procedures;
+  
   - (d) Prepare and distribute the financial statements for the Association required by the Declaration.
 
 # ARTICLE XIII.
