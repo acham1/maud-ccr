@@ -1,2 +1,2 @@
 # maud-ccr
-Maud Avenue Manor - Covenants Conditions and Restrictions
+Maud Avenue Manor - Governing Documents
