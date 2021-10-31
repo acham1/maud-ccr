@@ -32,7 +32,7 @@
 
   - (a) Class A: Class A Members shall be all Owners with the exception of the Declarant. Each Unit shall be entitled to one vote for each Unit owned. When more than one person holds an interest in any Unit, ail such persons shall be Members. The vote for such Unit shall be exercised as they among themselves shall determine, but in no event shall more than one vote be cast with respect to any Unit.
   
-  - (b) Class B: Class B Members shall be the Declarant, who shall be entitled to vote three votes- for each Unit owned by him; provided, however, that Class B membership shall be converted to Class A membership and shall forever cease to exist on the occurence of whichever of the following is first in time:
+  - (b) Class B: Class B Members shall be the Declarant, who shall be entitled to vote three votes for each Unit owned by him; provided, however, that Class B membership shall be converted to Class A membership and shall forever cease to exist on the occurrence of whichever of the following is first in time:
 
     - (1) When the total outstanding votes held by Class A Members equal the total outstanding votes held by the Class B Members; or
 
@@ -188,9 +188,9 @@ The Board of Directors may, by resolution duly adopted by a majority of the auth
 # ARTICLE XV.
 ## BOOKS AND RECORDS
 
-- **Section 15.01.** The Governing Instruments of the Association, the membership register, the books of account, and the minutes of meetings of the MemDers of the Board and of committees of the Board of the Association shall be available for inspection and copying by any Member of the Association, or by his duly appointed representative at any reasonable time and for any purpose reasonably related to his interest as a Member, at the principal office of the Association subject to the following:
+- **Section 15.01.** The Governing Instruments of the Association, the membership register, the books of account, and the minutes of meetings of the Members of the Board and of committees of the Board of the Association shall be available for inspection and copying by any Member of the Association, or by his duly appointed representative at any reasonable time and for any purpose reasonably related to his interest as a Member, at the principal office of the Association subject to the following:
 
-  - (a) At least two (2) days' written notice is given to the Secretary of the Association by the Member desiring to makfc the inspection;
+  - (a) At least two (2) days' written notice is given to the Secretary of the Association by the Member desiring to make the inspection;
 
   - (b) Any such inspection is made during regular business hours; and
 
