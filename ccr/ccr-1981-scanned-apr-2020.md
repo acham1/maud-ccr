@@ -25,83 +25,146 @@ I. DEFINITIONS
 II. THE PROPERTY
 
 - 2.1 Property Subject to Declaration
+
 - 2.2 Waiver of Partition
+
 - 2.3 Common Area Ownership
+
 - 2.4 Restricted Common Area
 
 III. HOMEOWNERS ASSOCIATION
+
 - 3.1 The Organization
+
 - 3.2 Membership
+
 - 3.3 Voting Classes
+
 - 3.4 Voting Procedures and Meetings
+
 - 3.5 Board of Directors
+
 - 3.6 Notice of Incumbency
+
 - 3.7 General Powers, Duties and Authority of The Association
+
 - 3.8 Capital Improvements
+
 - 3.9 Power of Attorney
+
 - 3.10 Maintenance of Common Area
+
 - 3.11 Authority for Entry for Maintenance or Construction
+
 - 3.12 Budget and Annual Report
+
 - 3.13 Additional Insurance by Unit Owner
+
 - 3.14 Manager
+
 - 3.15 Consolidations and Mergers
+
 - 3.16 Dedication
+
 - 3.17 Project Rules
+
 - 3.18 Enforcement
+
 - 3.19 Enforcement of Bonded Obligations
 
 IV. MAINTENANCE ASSESSMENTS AND ASSOCIATION FUNDS
+
 - 4.1 Covenants for Maintenance Assessments
+
+
 - 4.2 Monthly Assessments
+
 - 4.3 Special Assessments
+
 - 4.4 Reimbursement Assessments
+
 - 4.5 Non-Waiver of Assessments
+
 - 4.6 Enforcement
+
 - 4.7 Power of Foreclosure and Sale
+
 - 4.8 Status of Assessment Lien
+
 - 4.9 Certificate of Discharge of Lien
+
 - 4.10 Subordination of Lien to Encumbrance
+
 - 4.11 Association Funds
+
 - 4.12 Books of Account
 
 V. USES, RESTRICTIONS AND COVENANTS
+
 - 5.1 Proper Use of Premises
+
 - 5.2 Maintenance by Unit Owner
+
 - 5.3 Capital Improvements - Alterations and Additions
+
 - 5.4 Use of Common Facilities
 
 VI. EASEMENTS
+
 - 6.1 Generally
+
 - 6.2 Utilities
+
 - 6.3 Encroachment
+
 - 6.4 Construction, Maintenance and Repair
+
 - 6.5 Ingress and Egress
+
 - 6.6 Balconies and Patios
+
 - 6.7 Emergency Exits
 
 VII. DEVELOPMENT RIGHTS
+
 - 7.1 Limitations of Restrictions
 
 VIII. DAMAGE OR DESTRUCTION OF BUILDING; CONDEMNATION
+
 - 8.1 Damage to Single Unit
+
 - 8.2 Damage to Two or More Units or Common Area
+
 - 8.3 Condemnation of Common Area
+
 - 8.4 Appraisals
 
 IX. MISCELLANEOUS PROVISIONS
+
 - 9.1 Mechanic's Liens
+
 - 9.2 Term of Declaration
+
 - 9.3 Amendments
+
 - 9.4 Construction of Provisions
+
 - 9.5 Binding
+
 - 9.6 Severability of Provisions
+
 - 9.7 Gender, Number and Captions
 
 X. ATTACHMENTS
+
 - Consent and Subordination
+
 - Exhibit A - Legal Description
+
 - Exhibit B - Grant Deed
+
 - Exhibit C - Undivided Interest in Common Area
+
 - Exhibit D - The Plan
 
 <hr>
@@ -283,11 +346,17 @@ Unless the context clearly indicates a different meaning therefor, the terms use
   - 3.17.1 The Board may, from time to time, and subject to the provisions of this Declaration, propose such Rules as the Board may deem necessary for the management of the Project. Said Rules shall become effective and binding on all Unit Owners after adopting by fifty-one percent (51%) of the voting power of each class of Members at a meeting duly called for that purpose, or by the written consent of the above number of Unit Owners appended to a copy of the proposed Rules. Such Rules may concern, but need not be limited to, the following subjects:
 
     - (1) Use of the Common Area;
+
     - (2) Signs, except as limited by Subsection 5.1.10 therein;
+   
     - (3) Collection and disposal of refuse;
+   
     - (4) Minimum standards of maintenance of the property;
+   
     - (5) Use of any equipment located in the Common Area;
+   
     - (6) Use of any uncovered Parking Spaces located in the Common Area; and
+   
     - (7) Any other subject or matter within the jurisdiction of the Association as provided in this Declaration.
 
   - 3.17.2 With respect to Subsection 3.17.1 above, the Rules may, without limitation and to the extent deemed necessary by the Association in order to preserve the benefits of the Project for all Owners and their families, invitees, licensees, guests and tenants, restrict or govern the use of the Common Area by any guest, owner or family of such Owner; provided, however, that with respect to use of the Common Area, the Rules may not discriminate between Owners and the families and lessees of Owners.
@@ -295,7 +364,9 @@ Unless the context clearly indicates a different meaning therefor, the terms use
   - 3.17.3 With respect to Subsection 3.17.1 above, the Rules may include with respect to the Common Area, but not any public streets adjacent thereto:
 
     - (1) Parking restrictions and limitations on the Common Area;
+
     - (2) Limitations upon vehicular travel; and
+
     - (3) The types of vehicles which may be permitted to use the Common Area.
 
   - 3.17.4 A copy of the Rules so adopted shall be furnished to each Unit Owner, and each Unit Owner, his family, guests, employees, invitees, licensees and tenants shall comply with such Rules.
@@ -388,7 +459,9 @@ The lien provided for herein shall be in favor of the Association, shall be for 
   - 5.1.4 Rental of Residential Units: A Unit Owner shall be entitled to rent his Unit, provided that:
 
     - (i) Not less than the entire Unit is rented or leased;
+
     - (ii) Such rental or lease is for a period of not less than sixty (60) days; and
+    
     - (iii) The Unit Owner has given notice of the proposed tenancy to the Board and has otherwise complied with the terms of this Declaration.
 
     Any rental or lease of a Unit shall be subject to this Declaration and the Rules and Regulations established by the Board pursuant to Section 3.17 of this Declaration. Each rental or lease shall be by written agreement specifying that the tenant shall be subject to all provisions of this Declaration and the By-Laws and that a failure to comply therewith shall be a default under such lease or agreement. Each tenant or lessee shall be provided with a copy of the Rules and of this Declaration by the Unit Owner so renting or leasing. The Unit Owner shall be responsible for tenant's or lessee's compliance with all provisions of this Declaration and the Rules pertinent to the occupancy and use of the Unit and the use of the Common Area.
