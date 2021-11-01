@@ -71,24 +71,11 @@ SEVENTH: Amendment of these Articles shall require the vote or written assent of
 
 IN WITNESS WHEREOF, we, the undersigned being the persons named above as the first Directors, have executed these Articles of Association this _6th_ day of _August_ , 19 _81_.
 
-> [SIGNED]
+> [SIGNED] Richard Azevedo
 >
-> ___
-> 
-> Richard Azevedo
-
-> [SIGNED]
+> [SIGNED] Jan Barre
 >
-> ___
-> 
-> Jan Barre
-
-
-> [SIGNED]
->
-> ___
-> 
-> William Dickerson
+> [SIGNED] William Dickerson
 
 # Acknowledgment
 
@@ -100,10 +87,8 @@ IN WITNESS WHEREOF, we, the undersigned being the persons named above as the fir
 
 On this _6th_ day of _August_ , 19 _81_ , before me, the undersigned, a Notary Public in and for the County of Alameda, State of California, personally appeared RICHARD E. AZEVEDO, JAN BARRE, and WILLIAM E. DICKERSON, known to me to be the persons whose names are subscribed to the foregoing Articles of Association of the MAUD AVENUE MANOR HOMEOWNERS ASSOCIATION, and acknowledged that they executed the same.
 
-> [SIGNED]
+> [SIGNED] Gladys O'Rourke
 >
 > ___
-> 
-> Gladys O'Rourke
 >
 > Notary Public
