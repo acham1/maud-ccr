@@ -269,9 +269,9 @@ Unless the context clearly indicates a different meaning therefor, the terms use
 
   - 3.3.2 Class B: The Class B Member shall be Declarant. The Class B Member shall be entitled to three (3) votes for each Unit owned, provided that the Class B membership shall cease and be converted to Class A membership on the happening of either of the following events, whichever occurs earlier:
 
-    - (1) When the votes outstanding in the Class A membership equal the votes outstanding in the Class B membership; or
+      - (1) When the votes outstanding in the Class A membership equal the votes outstanding in the Class B membership; or
 
-    - (2) Upon the date which is the second anniversary of the original issuance of the original Final Subdivision Public Report for the Project.
+      - (2) Upon the date which is the second anniversary of the original issuance of the original Final Subdivision Public Report for the Project.
 
     Upon the expiration of the Class B membership, with respect to each provision of this Declaration which requires the vote of both classes of Members, the same shall be read as requiring both (a) the vote of the prescribed percentage of all of the Class A Members and (b) as long as Declarant holds or directly controls twenty-five percent (25%) of the voting power of the Association, the vote of the prescribed percentage of the Class A Members other than Declarant.
 
@@ -345,29 +345,29 @@ Unless the context clearly indicates a different meaning therefor, the terms use
 
   - 3.17.1 The Board may, from time to time, and subject to the provisions of this Declaration, propose such Rules as the Board may deem necessary for the management of the Project. Said Rules shall become effective and binding on all Unit Owners after adopting by fifty-one percent (51%) of the voting power of each class of Members at a meeting duly called for that purpose, or by the written consent of the above number of Unit Owners appended to a copy of the proposed Rules. Such Rules may concern, but need not be limited to, the following subjects:
 
-    - (1) Use of the Common Area;
+      - (1) Use of the Common Area;
 
-    - (2) Signs, except as limited by Subsection 5.1.10 therein;
+      - (2) Signs, except as limited by Subsection 5.1.10 therein;
    
-    - (3) Collection and disposal of refuse;
+      - (3) Collection and disposal of refuse;
    
-    - (4) Minimum standards of maintenance of the property;
+      - (4) Minimum standards of maintenance of the property;
    
-    - (5) Use of any equipment located in the Common Area;
+      - (5) Use of any equipment located in the Common Area;
    
-    - (6) Use of any uncovered Parking Spaces located in the Common Area; and
+      - (6) Use of any uncovered Parking Spaces located in the Common Area; and
    
-    - (7) Any other subject or matter within the jurisdiction of the Association as provided in this Declaration.
+      - (7) Any other subject or matter within the jurisdiction of the Association as provided in this Declaration.
 
   - 3.17.2 With respect to Subsection 3.17.1 above, the Rules may, without limitation and to the extent deemed necessary by the Association in order to preserve the benefits of the Project for all Owners and their families, invitees, licensees, guests and tenants, restrict or govern the use of the Common Area by any guest, owner or family of such Owner; provided, however, that with respect to use of the Common Area, the Rules may not discriminate between Owners and the families and lessees of Owners.
 
   - 3.17.3 With respect to Subsection 3.17.1 above, the Rules may include with respect to the Common Area, but not any public streets adjacent thereto:
 
-    - (1) Parking restrictions and limitations on the Common Area;
+      - (1) Parking restrictions and limitations on the Common Area;
 
-    - (2) Limitations upon vehicular travel; and
+      - (2) Limitations upon vehicular travel; and
 
-    - (3) The types of vehicles which may be permitted to use the Common Area.
+      - (3) The types of vehicles which may be permitted to use the Common Area.
 
   - 3.17.4 A copy of the Rules so adopted shall be furnished to each Unit Owner, and each Unit Owner, his family, guests, employees, invitees, licensees and tenants shall comply with such Rules.
 
@@ -458,11 +458,11 @@ The lien provided for herein shall be in favor of the Association, shall be for 
 
   - 5.1.4 Rental of Residential Units: A Unit Owner shall be entitled to rent his Unit, provided that:
 
-    - (i) Not less than the entire Unit is rented or leased;
+      - (i) Not less than the entire Unit is rented or leased;
 
-    - (ii) Such rental or lease is for a period of not less than sixty (60) days; and
-    
-    - (iii) The Unit Owner has given notice of the proposed tenancy to the Board and has otherwise complied with the terms of this Declaration.
+      - (ii) Such rental or lease is for a period of not less than sixty (60) days; and
+
+      - (iii) The Unit Owner has given notice of the proposed tenancy to the Board and has otherwise complied with the terms of this Declaration.
 
     Any rental or lease of a Unit shall be subject to this Declaration and the Rules and Regulations established by the Board pursuant to Section 3.17 of this Declaration. Each rental or lease shall be by written agreement specifying that the tenant shall be subject to all provisions of this Declaration and the By-Laws and that a failure to comply therewith shall be a default under such lease or agreement. Each tenant or lessee shall be provided with a copy of the Rules and of this Declaration by the Unit Owner so renting or leasing. The Unit Owner shall be responsible for tenant's or lessee's compliance with all provisions of this Declaration and the Rules pertinent to the occupancy and use of the Unit and the use of the Common Area.
 
